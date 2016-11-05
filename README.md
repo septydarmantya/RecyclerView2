@@ -5,7 +5,7 @@
 ![2-2.jpg](https://s16.postimg.org/ngs32z5et/2_2.jpg)
 
 ###Data Diri
-= Nama : Septy Nur Aulia Darmantya
+- Nama : Septy Nur Aulia Darmantya
 - Kelas : XI RPL 5
 - No. Urut : 30
 - NIS : 4832/1551.070
